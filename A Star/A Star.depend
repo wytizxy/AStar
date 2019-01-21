@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462709659 source:d:\ai\a star\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+	<cmath>
+
